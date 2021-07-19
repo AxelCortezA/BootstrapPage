@@ -1,0 +1,21 @@
+#inicio {
+    background: url(img/adults-analysis-banking-1451447.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#inicio div {
+    height: 100vh;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+
+
+#lap-work{
+    width: 555px;
+}
+
+#carouselExampleControls img{
+    height: 470px;
+}
